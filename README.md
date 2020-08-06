@@ -12,3 +12,5 @@
 
 <br />
 
+[website]: http://thedeployguy.com
+[linkedin]: https://www.linkedin.com/in/jason-lloyd/
