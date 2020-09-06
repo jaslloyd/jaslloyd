@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jason I am Leader, Web Developer and Blogger 
 - 🔭 Tech Lead @Walmart Labs in Dublin 🇮🇪
-- 🌱 I’m currently learning leadership and continuing deeping my knownledge on Web development.
+- 🌱 I’m currently learning leadership and trying to deepen my knownledge on everything Web development.
 - 📫 Budding Blogger @[thedeployguy](http://thedeployguy.com/)
 
 ### Connect with me:
