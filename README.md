@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jason I am Leader, Web Developer and Blogger 
-- 🔭 Tech Lead @Walmart Global Tech in Dublin 🇮🇪
+- 🔭 UI Architect / Senior Software Engineer @Workday in Dublin 🇮🇪
 - 🌱 I’m currently learning leadership and trying to deepen my knownledge on everything Web development.
-- 📫 Budding Blogger @[thedeployguy](http://thedeployguy.com/)
+- 📫 Budding _Occasional_ Blogger @[thedeployguy](http://thedeployguy.com/)
 
 ### Connect with me:
 
