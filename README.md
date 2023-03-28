@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jason I am Leader, Web Developer and Blogger 
 - 🔭 UI Architect / Senior Software Engineer @Workday in Dublin 🇮🇪
 - 🌱 I’m currently learning leadership and trying to deepen my knownledge on everything Web development.
-- 📫 Budding _Occasional_ Blogger @[thedeployguy](http://thedeployguy.com/)
+- 📫 Budding _very occasional_ Blogger @[thedeployguy](http://thedeployguy.com/)
 
 ### Connect with me:
 
