@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jason I am Leader, Web Developer and Blogger 
-- 🔭 UI Architect / Senior Software Engineer @Workday in Dublin 🇮🇪
+- 🔭 Senior Frontend Engineer @trylayup
 - 🌱 I’m currently learning leadership and trying to deepen my knownledge on everything Web development.
 - 📫 Budding _very occasional_ Blogger @[thedeployguy](http://thedeployguy.com/)
 
