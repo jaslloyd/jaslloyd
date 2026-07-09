@@ -10,7 +10,3 @@ Lead Frontend Engineer, web developer, and occasional blogger.
 
 [![Website](https://img.shields.io/badge/thedeployguy.com-000?style=flat&logo=googlechrome&logoColor=white)](http://thedeployguy.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-lloyd/)
-
-### GitHub stats
-
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaslloyd&show_icons=true&hide_border=true)
