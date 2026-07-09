@@ -1,12 +1,16 @@
-### Hi there 👋, I'm Jason I am Leader, Web Developer and Blogger 
-- 🔭 Lead Frontend Engineer [@Layup](https://www.trylayup.com/)
-- 🌱 I’m currently learning leadership and trying to deepen my knownledge on everything Web development.
-- 📫 Budding _very occasional_ Blogger @[thedeployguy](http://thedeployguy.com/)
+### Hi there 👋, I'm Jason
 
-### Connect with me:
+Lead Frontend Engineer, web developer, and occasional blogger.
 
-[<img align="left" alt="thedeployguy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jason Lloyd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🔭 Leading frontend [@Layup](https://www.trylayup.com/)
+- 🌱 Currently deepening my leadership skills and staying sharp across the web platform
+- ✍️ I write (very occasionally) at [thedeployguy.com](http://thedeployguy.com/)
 
-[website]: http://thedeployguy.com
-[linkedin]: https://www.linkedin.com/in/jason-lloyd/
+### Connect with me
+
+[![Website](https://img.shields.io/badge/thedeployguy.com-000?style=flat&logo=googlechrome&logoColor=white)](http://thedeployguy.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-lloyd/)
+
+### GitHub stats
+
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaslloyd&show_icons=true&hide_border=true)
