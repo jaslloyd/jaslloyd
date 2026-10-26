@@ -5,7 +5,7 @@ Staff Software Engineer, frontend team lead, and occasional blogger.
 - 🍞 Staff Software Engineer [@Toast](https://www.toasttab.com/)
 - 🧭 Leading frontend teams: architecture, mentoring, and raising the bar on quality
 - 🤖 AI-native workflow: agents and custom tooling take me from idea to production faster
-- ⚽🏀 Huge sports fan, soccer and basketball. Off the clock I'm groundhopping around Leinster and [mapping every game I go to](https://jaslloyd.github.io/groundhopping/) ([code](https://github.com/jaslloyd/groundhopping))
+- ⚽🏀 Huge sports fan, football and basketball. Off the clock I'm groundhopping around Leinster and [mapping every game I go to](https://jaslloyd.github.io/groundhopping/) ([code](https://github.com/jaslloyd/groundhopping))
 - ✍️ I write at [thedeployguy.com](https://thedeployguy.com/) (posts deployed irregularly, no SLA 🫠)
 
 ### Connect with me
